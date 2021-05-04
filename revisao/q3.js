@@ -70,38 +70,3 @@ function classificaAluno(ana) {
 console.log(ana) 
 mediaDoAluno(ana)
 classificaAluno(ana)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* console.log(AlunoTeste)
-function Aluno(codigo, nome) {
-    this.codigo = codigo
-    this.nome = nome
-    this.getRetornarAluno = () => {
-        return 
-    }
-}
-
-const aluno1 = new Aluno(01, 'Maria')
-console.log(aluno1.getRetornarAluno) */
