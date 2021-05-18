@@ -28,4 +28,4 @@ function imprimirPrimeiroIndiceDeOcorrencia (numeros, numeroProcurado) {
     return indicesDeOcorrencia
 }
 
-console.log(imprimirPrimeiroIndiceDeOcorrencia (numeros, 1))
+console.log(imprimirPrimeiroIndiceDeOcorrencia (numeros, 3))
